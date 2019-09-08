@@ -1,9 +1,21 @@
-# Something About Me
-Hi! My name is Jingchen Xiao and you can also cal me Natsha. I study at NYUSH in Shanghai, China. I am an outgoing girl who is always full of energy and willing to try something new. I enjoy doing a lot of things, reading, singing, dancing and watching movies, frequently taking care of animals. I get huge procrastination thing, which results in screw things up when I first try them and submit this assignment so late. But most of the times I can fix the problems in process and end up doing fine. Perhaps my personality helps me a lot! 
+# Assignment 1: Welcome to App Lab
+Due Wednesday, September 11
 
-# About the Future
-I plan to major Social Science and IMA. I find the methods we apply when studying IMA a great tool to improve academic research, which together with my passion for IMA and programming urges me to take this course. Though I know just a little about this field, I would work harder in the future to live up to my goal. It’s just so glad that I can enjoy the process with every one of you! 
+# Instructions
+Clone this repository to your local computer (hint: use the terminal and the git clone command).
+Open the welcome-to-app-lab-yourgithubusername folder in vscode.
+Open the the file README.md.
+Replace the About Me section with your own. I've included my own as a template.
+Delete the Assignment and Instructions sections.
+git push your changed file - this is your assignment submission (don't forget a commit message)!
+Be sure and use markdown to help format your document. You can study this document and how it appears on Github to learn more.
 
+# About Me
+Hello! My name is Christian and I live in Shanghai, China. I spend time exploring the intersections of management, creativity, art and technology. I have a lot of ideas and I make a lot of stuff: messaging apps, cryptocurrency hardware, virtual reality games and educational content. I teach students at NYU Shanghai with the goal of helping them understand the intersection of ideas and realities.
+
+I'm a founding member of NYU Shanghai, China's first Sino-American university. I was on the ground floor putting in the plumbing, and was initially responsible for planning and operations to establish the school in Shanghai. Currently I'm teaching and researching full time, while continuing to build interesting products and art in my spare time.
+
+My diverse skill set lends itself well to small, nimble teams. I pride myself on my ability to take risks to create new things. I work efficiently, play multiple roles and speak many languages (programming, business, Chinese). I know enough about most things to sound like an expert on technology, project management, software engineering, digital prototyping, corporate and venture finance, capital markets, macroeconomics and the Chinese innovation ecosystem
 
 
 
